@@ -1,0 +1,6 @@
+#!/bin/tcsh
+#new
+
+java -jar ~/jsdoc-toolkit/jsrun.jar ~/jsdoc-toolkit/templates/aias-frame/ $1
+echo "End creating the document file."
+

@@ -1,0 +1,7 @@
+<<<TOOLINDENT>>>/**
+$#* 
+$#* @param 
+$#*/<<<REPLACE-REGEXP-ALL
+^(\s*)\$#\*
+$1 *
+<<<MOVECARET-UP>>><<<MOVECARET-UP>>>

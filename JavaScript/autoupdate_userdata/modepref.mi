@@ -1,0 +1,1055 @@
+"DefaultFont" = "4"
+"DefaultPrintOption_PrintFont" = "16384"
+"DefaultPrintOption_PageNumberFont" = "16384"
+"DefaultPrintOption_FileNameFont" = "16384"
+"DefaultPrintOption_LineNumberFont" = "16384"
+"UseRegExpCommentStart" = "false"
+"UseRegExpCommentEnd" = "false"
+"BackgroundImageTransparency" = "85"
+"WrapWithLetterCount LetterCount" = "80"
+"Convert5CToA5WhenOpenJIS" = "false"
+"DefaultEnableAntiAlias" = "true"
+"DisplayBackgroundImage" = "false"
+"DisplayInformationHeader" = "true"
+"DisplayToolbar" = "true"
+"DisplayPositionButton" = "true"
+"DisplayJumpList" = "true"
+"DisplayRuler" = "false"
+"RulerScaleWithTabLetter" = "true"
+"DisplayReturnCode" = "false"
+"DisplayTabCode" = "true"
+"DisplaySpaceCode" = "false"
+"DisplayZenkakuSpaceCode" = "true"
+"DisplayGenkoyoshi" = "false"
+"CheckBrace" = "true"
+"SelectInsideBraceByDoubleClick" = "true"
+"SelectInsideByQuadClick" = "true"
+"KinsokuBuraasge" = "false"
+"InputSpacesByTabKey" = "false"
+"AddRemoveSpaceByDragDrop" = "false"
+"InputBackslashByYenKey" = "true"
+"DontSaveResouceFork" = "false"
+"SaveUTF8BOM" = "false"
+"CheckCharsetWhenSave" = "true"
+"SaveDOSEOF" = "false"
+"SaveWindowPosition" = "true"
+"SniffTextEncoding_BOM" = "true"
+"SniffTextEncoding_Charset" = "true"
+"SniffTextEncoding_Legacy" = "true"
+"ShowDialogWhenTextEncodingNotDecided" = "true"
+"ApplyCharsForWordToDoubleClick" = "false"
+"UseCIndent" = "false"
+"UseCSyntaxColor" = "false"
+"UseBuiltinSyntaxDefinitionFile" = "false"
+"BuiltinSyntaxDefinitionName" = "C/C++"
+"DisplayLineNumberButton" = "true"
+"DisplayLineNumberButton_AsParagraph" = "false"
+"DisplayEachLineNumber" = "true"
+"DisplayEachLineNumber_AsParagraph" = "false"
+"DefaultPrintOption_UsePrintFont" = "false"
+"DefaultPrintOption_PrintPageNumber" = "false"
+"DefaultPrintOption_PrintFileName" = "false"
+"DefaultPrintOption_PrintLineNumber" = "false"
+"DefaultPrintOption_PrintSeparateLine" = "true"
+"DefaultPrintOption_ForceWordWrap" = "false"
+"LetterColor" = "E1FFDB"
+"BackgroundColor" = "333333"
+"SpecialCodeColor" = "787878"
+"CommentColor" = "00B518"
+"LiteralColor" = "00F007"
+"CSyntaxColor_Function" = "000000"
+"CSyntaxColor_ExternalFunction" = "000000"
+"CSyntaxColor_Class" = "000000"
+"CSyntaxColor_GlobalVariable" = "000000"
+"CSyntaxColor_LocalVariable" = "000000"
+"CSyntaxColor_ExternalVariable" = "000000"
+"CSyntaxColor_EnumType" = "000000"
+"CSyntaxColor_Enum" = "000000"
+"CSyntaxColor_Typedef" = "000000"
+"CSyntaxColor_Struct" = "000000"
+"CSyntaxColor_Union" = "000000"
+"CSyntaxColor_Define" = "000000"
+"RulerBaseLetter" = " "
+"QuadClickText" = "'"
+"CommentStart" = "/*"
+"CommentEnd" = "*/"
+"CommentLineStart" = "//"
+"LiteralStart1" = "'"
+"LiteralEnd1" = "'"
+"LiteralStart2" = "\""
+"LiteralEnd2" = "\""
+"EscapeString" = "\\"
+"OtherStart1" = ""
+"OtherEnd1" = ""
+"OtherStart2" = ""
+"OtherEnd2" = ""
+"CharsForWord" = "_abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+"CharsForHeadOfWord" = ""
+"CharsForTailOfWord" = ""
+"TeXCompiler" = "/usr/local/bin/platex"
+"TeXPreviewer" = ""
+"DefaultFontNameUni" = "Monaco"
+"DefaultFontName" = "Monaco"
+"DefaultFontSize" = "12"
+"DefaultTabWidth" = "4"
+"IndentWidth" = "4"
+"DefaultWindowWidth" = "600"
+"DefaultWindowHeight" = "600"
+"DefaultPrintOption_PrintFontNameUni" = "Osaka"
+"DefaultPrintOption_PrintFontName" = "Monaco"
+"DefaultPrintOption_PrintFontSize" = "9"
+"DefaultPrintOption_PageNumberFontNameUni" = "Osaka"
+"DefaultPrintOption_PageNumberFontName" = "Monaco"
+"DefaultPrintOption_PageNumberFontSize" = "9"
+"DefaultPrintOption_FileNameFontNameUni" = "Osaka"
+"DefaultPrintOption_FileNameFontName" = "Monaco"
+"DefaultPrintOption_FileNameFontSize" = "9"
+"DefaultPrintOption_LineNumberFontNameUni" = "Osaka"
+"DefaultPrintOption_LineNumberFontName" = "Monaco"
+"DefaultPrintOption_LineMargin" = "0"
+"LineMargin" = "0"
+"CIndent_Normal" = "4"
+"CIndent_Fukubun" = "8"
+"CIndent_Label" = "-2"
+"kDefaultTextEncoding" = "UTF-8"
+"DefaultWrapMode" = "1"
+"DefaultWrapMode_LetterCount" = "78"
+"DefaultReturnCode" = "2"
+"BackgroundImageFile" = ""
+"IndentOnTheWay" = "8"
+"IndentForLabel" = "-2"
+"IndentOnTheWaySecondIndent" = "false"
+"UseSyntaxDefinitionIndent" = "false"
+"IndentExeLetters" = ""
+"SetDefaultCreator" = "true"
+"kDefaultCreator" = "MMKE"
+"ForceMiTextFile" = "false"
+"DisplaySpellCheck" = "false"
+"SpellCheckLanguage" = "0"
+"SetDefaultTextEncodingWhenNotDecided" = "false"
+"UseRegExpIndent" = "true"
+"IdInfoWindowDisplayComment" = "true"
+"DisplayAbbrevCandidateWindow" = "true"
+"HitCountForAbbrevCandidiateWindow" = "1"
+"SaveTextEncodingToEA" = "true"
+"DefaultDisplayCrossCaret" = "false"
+"ModeSelectFilePath" = 
+{
+
+}
+"PrintMargin_Left" = "10"
+"PrintMargin_Right" = "10"
+"PrintMargin_Top" = "10"
+"PrintMargin_Bottom" = "10"
+"DragDrop_ActionForNoSuffix" = "0"
+"UseDefaultSuffixForSave" = "true"
+"DefaultSuffixForSaveText" = ".js"
+"StartSpaceToIndent" = "false"
+"IndentTabIsAlwaysTabIfIndentOff" = "true"
+"ZenkakuSpaceIndent" = "false"
+"SaveDocumentPrefToResource" = "true"
+"SaveDocumentPrefToAppPref" = "true"
+"ImportSystemHeaderFiles" = "false"
+"SystemHeaderFiles" = ""
+"UseEmbeddedSDF" = "true"
+"UseUserDefinedSDF" = "false"
+"UserDefinedSDFFilePath" = ""
+"JapaneseName" = ""
+"EnglishName" = ""
+"FrenchName" = ""
+"GermanName" = ""
+"SpanishName" = ""
+"ItalianName" = ""
+"DutchName" = ""
+"SwedishName" = ""
+"NorwegianName" = ""
+"DanishName" = ""
+"FinnishName" = ""
+"PortugueseName" = ""
+"SimplifiedChineseName" = ""
+"TraditionalChineseName" = ""
+"KoreanName" = ""
+"PolishName" = ""
+"PortuguesePortugalName" = ""
+"RussianName" = ""
+"ModeComment" = "JavaScript Mode Settings for mi  ver 0.1.20120408\rCreated by nodaguti\rnodaguti@gmail.com\rhttp://nodaguti.usamimi.info/\r\r\r"
+"ModeUpdateURL" = ""
+"SDFHeaderDisplayMultiply" = "100"
+"RecognizeConditionalCompileDirective" = "true"
+"ConditionalCompileDisabledColor" = "C3C3C3"
+"ShowUnderlineAtCurrentLine" = "false"
+"CurrentLineUnderlineColor" = "C3C3C3"
+"AutoUpdateRevisionText" = ""
+"LastAutoUpdateDateTime" = ""
+"EnableAutoUpdateTool" = "true"
+"EnableAutoUpdateToolbar" = "true"
+"EnableAutoUpdateKeyword" = "true"
+"EnableAutoUpdateJumpSetup" = "true"
+"EnableUserTool" = "true"
+"EnableUserToolbar" = "true"
+"EnableUserKeyword" = "true"
+"EnableUserJumpSetup" = "true"
+"Indent0ForEmptyLine" = "false"
+"IndentWhenPaste" = "false"
+"AdditionalCategory_Name" = 
+{
+	"Keywords/Reserved Words",
+	"Array",
+	"Date",
+	"Error",
+	"Math",
+	"Number",
+	"Object",
+	"RegExp",
+	"String",
+	"DOM Document (P/M Name Only)",
+	"DOM Document (with document.*)",
+	"DOM Element",
+	"DOM Event",
+	"DOM Range",
+	"DOM Selection",
+	"DOM Window (P/M Name Only)",
+	"DOM Window (with window.*)",
+	"DOM Keywords",
+	"Typical Method/Property Names"
+}
+"AdditionalCategory_Color" = 
+{
+	"FFFA00",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFFFF",
+	"FFF7FD",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFFFF"
+}
+"AdditionalCategory_Bold" = 
+{
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false"
+}
+"AdditionalCategory_RegExp" = 
+{
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false"
+}
+"AdditionalCategory_IgnoreCase" = 
+{
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false"
+}
+"AdditionalCategory_Underline" = 
+{
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false"
+}
+"AdditionalCategory_Italic" = 
+{
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false"
+}
+"AdditionalCategory_PriorToOtherColor" = 
+{
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false"
+}
+"AdditionalCategory_Disabled" = 
+{
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"true",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"true",
+	"false",
+	"false",
+	"false"
+}
+"AdditionalCategory_AutoUpdate" = 
+{
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false"
+}
+"AdditionalCategory_Keywords" = 
+{
+	"abstract\rboolean\rbreak\rbyte\rcase\rcatch\rchar\rclass\rconst\rcontinue\rdebugger\rdefault\rdelete\rdo\rdouble\relse\renum\rexport\rextends\rfalse\rfinal\rfinally\rfloat\rfor\rfunction\rget\rgoto\rif\rimplements\rimport\rin\rInfinity\rinstanceof\rint\rinterface\rlet\rlong\rNaN\rnative\rnew\rnull\rpackage\rprivate\rprotected\rprototype\rpublic\rreturn\rset\rshort\rstatic\rsuper\rswitch\rsynchronized\rthis\rthrow\rthrows\rtransient\rtrue\rtry\rtypeof\rundefined\rvar\rvoid\rvolatile\rwhile\rwith\ryield",
+	"every\rfilter\rforEach\rindex\rjoin\rmap\rpop\rpush\rreduce\rreduceRight\rreverse\rshift\rsome\rsort\runshift\r",
+	"parse\rgetDate\rgetDay\rgetFullYear\rgetHours\rgetMilliseconds\rgetMinutes\rgetMonth\rgetSeconds\rgetTime\rgetTimezoneOffset\rgetUTCDate\rgetUTCDay\rgetUTCFullYear\rgetUTCHours\rgetUTCMilliseconds\rgetUTCMinutes\rgetUTCMonth\rgetUTCSeconds\rgetYear\rsetDate\rsetDay\rsetFullYear\rsetHours\rsetMilliseconds\rsetMinutes\rsetMonth\rsetSeconds\rsetTime\rsetTimezoneOffset\rsetUTCDate\rsetUTCDay\rsetUTCFullYear\rsetUTCHours\rsetUTCMilliseconds\rsetUTCMinutes\rsetUTCMonth\rsetUTCSeconds\rtoDateString\rtoGMTString\rtoLocaleDateString\rtoLocalFormat\rtoLocaleString\rtoLocaleTimeString\rtoTimeString\rtoUTCString",
+	"Error\rEvalError\rInternalError\rRangeError\rReferenceError\rStopIteration\rSyntaxError\rTypeError\rURIError",
+	"E\rLN2\rLN10\rLOG2E\rLOG10E\rPI\rSQRT1_2\rSQRT2\rabs\racos\rasin\ratan\ratan2\rceil\rcos\rexp\rfloor\rlog\rmax\rmin\rpow\rrandom\rround\rsin\rsqrt\rtan",
+	"MAX_VALUE\rMIN_VALUE\rNEGATIVE_INFINITY\rPOSITIVE_INFINITY\rtoExponential\rtoFixed\rtoPrecision",
+	"defineProperties\rdefineProperty\rgetPrototypeOf\rpreventExtensions\rgetOwnPropertyDescriptor\rgetOwnPropertyNames\rgetPrototypeOf\r__noSuchMethod__\r__defineGetter__\r__defineSetter__\r__lookupGetter__\r__lookupSetter__\r__parent__\rconstructor\rlength\rhasOwnProperty\risPrototypeOf\rpropertyIsEnumerable\rarguments\rtoString\rtoSource\rvalueOf\rapply\rcall",
+	"ignoreCase\rlastIndex\rmultiline\rsource\rglobal\rexec\rtest\r$_\r$*\r$&\r$+\r$`\r$'\rinput\rlastMatch\rlastParen\rleftContext\rrightContext\rcompile",
+	"charAt\rcharCodeAt\rconcat\rindexOf\rlastIndexOf\rmatch\rreplace\rsearch\rtest\rslice\rsplit\rsubstr\rsubstring\rtoLocaleUpperCase\rtoLocaleLowerCase\rtoLowerCase\rtoUpperCase\rtrim\rtrimLeft\rtrimRight",
+	"activeElement\ralinkColor\rall\ranchors\rapplets\rasync\rbackground\rbaseURIObject\rbgColor\rbody\rcharacterSet\rcompatMode\rcontentType\rcookie\rcurrentScript\rdefaultView\rdesignMode\rdir\rdoctype\rdocumentElement\rdocumentURI\rdocumentURIObject\rdomain\rdomConfig\rembeds\rfgColor\rfileSize\rforms\rheight\rimages\rimplementation\rinputEncoding\rlastModified\rlastStyleSheetSet\rlinkColor\rlinks\rlocation\rplugins\rpopupNode\rpreferredStyleSheetSet\rreadyState\rreferrer\rselectedStyleSheetSet\rstrictErrorChecking\rstyleSheets\rstyleSheetSets\rtitle\rtooltipNode\rURL\rvlinkColor\rwidth\rxmlEncoding\rxmlStandalone\rxmlVersion\raddEventListener\radoptNode\rcaptureEvents\rclear\rclose\rcreateAttribute\rcreateAttributeNS\rcreateCDATASection\rcreateComment\rcreateDocumentFragment\rcreateElement\rcreateElementNS\rcreateEntityReference\rcreateEvent\rcreateExpression\rcreateNSResolver\rcreateProcessingInstruction\rcreateRange\rcreateTextNode\rcreateTreeWalker\relementFromPoint\renableStyleSheetsForSet\revaluate\rexecCommand\rexecCommandShowHelp\rgetBoxObjectFor\rgetElementById\rgetElementsByClassName\rgetElementsByName\rgetElementsByTagName\rgetElementsByTagNameNS\rgetSelection\rhasFocus\rimportNode\rload\rloadOverlay\rnormalizeDocument\ropen\rqueryCommandEnabled\rqueryCommandIndeterm\rqueryCommandState\rqueryCommandSupported\rqueryCommandText\rqueryCommandValue\rquerySelector\rquerySelectorAll\rreleaseCapture\rreleaseEvents\rremoveEventListener\rrenameNode\rrouteEvent\rmozSetImageElement\rwrite\rwriteln",
+	"document.activeElement\rdocument.alinkColor\rdocument.all\rdocument.anchors\rdocument.applets\rdocument.async\rdocument.background\rdocument.baseURIObject\rdocument.bgColor\rdocument.body\rdocument.characterSet\rdocument.compatMode\rdocument.contentType\rdocument.cookie\rdocument.currentScript\rdocument.defaultView\rdocument.designMode\rdocument.dir\rdocument.doctype\rdocument.documentElement\rdocument.documentURI\rdocument.documentURIObject\rdocument.domain\rdocument.domConfig\rdocument.embeds\rdocument.fgColor\rdocument.fileSize\rdocument.forms\rdocument.height\rdocument.images\rdocument.implementation\rdocument.inputEncoding\rdocument.lastModified\rdocument.lastStyleSheetSet\rdocument.linkColor\rdocument.links\rdocument.location\rdocument.plugins\rdocument.popupNode\rdocument.preferredStyleSheetSet\rdocument.readyState\rdocument.referrer\rdocument.selectedStyleSheetSet\rdocument.strictErrorChecking\rdocument.styleSheets\rdocument.styleSheetSets\rdocument.title\rdocument.tooltipNode\rdocument.URL\rdocument.vlinkColor\rdocument.width\rdocument.xmlEncoding\rdocument.xmlStandalone\rdocument.xmlVersion\rdocument.addEventListener\rdocument.adoptNode\rdocument.captureEvents\rdocument.clear\rdocument.close\rdocument.createAttribute\rdocument.createAttributeNS\rdocument.createCDATASection\rdocument.createComment\rdocument.createDocumentFragment\rdocument.createElement\rdocument.createElementNS\rdocument.createEntityReference\rdocument.createEvent\rdocument.createExpression\rdocument.createNSResolver\rdocument.createProcessingInstruction\rdocument.createRange\rdocument.createTextNode\rdocument.createTreeWalker\rdocument.elementFromPoint\rdocument.enableStyleSheetsForSet\rdocument.evaluate\rdocument.execCommand\rdocument.execCommandShowHelp\rdocument.getBoxObjectFor\rdocument.getElementById\rdocument.getElementsByClassName\rdocument.getElementsByName\rdocument.getElementsByTagName\rdocument.getElementsByTagNameNS\rdocument.getSelection\rdocument.hasFocus\rdocument.importNode\rdocument.load\rdocument.loadOverlay\rdocument.normalizeDocument\rdocument.open\rdocument.queryCommandEnabled\rdocument.queryCommandIndeterm\rdocument.queryCommandState\rdocument.queryCommandSupported\rdocument.queryCommandText\rdocument.queryCommandValue\rdocument.querySelector\rdocument.querySelectorAll\rdocument.releaseCapture\rdocument.releaseEvents\rdocument.removeEventListener\rdocument.renameNode\rdocument.routeEvent\rdocument.mozSetImageElement\rdocument.write\rdocument.writeln",
+	"attributes\rbaseURIObject\rchildNodes\rclassName\rclientHeight\rclientWidth\rclientLeft\rclientTop\rdir\rfirstChild\rid\rinnerHTML\rlang\rlastChild\rlocalName\rname\rnamespaceURI\rnodeName\rnodePrincipal\rnodeValue\rnodeType\roffsetHeight\roffsetLeft\roffsetTop\roffsetParent\roffsetWidge\rownerDocument\rparentNode\rprefix\rpreviousSibling\rscrollHeight\rscrollLeft\rscrollTop\rscrollWidge\rstyle\rtabIndex\rtagName\rtextContent\routerHTML\rnextSibling\rinsertBefore\rappendChild\rblur\rclick\rfocus\raddEventListener\rcloneNode\rdispatchEvent\rattachEvent\rgetAttribute\rgetAttributeNS\rgetAttributeNode\rgetAttributeNodeNS\rgetElementById\rgetElementsByTagName\rgetElementsByTagNameNS\rgetElementsByClassName\rquerySelector\rquerySelectorAll\rhasAttribute\rhasAttributeNS\rhasAttributes\rhasChildNodes\rnormalize\rremoveAttribute\rremoveAttributeNS\rremoveAttributeNode\rremoveChild\rremoveEventListener\rreplaceChild\rscrollIntoView\rsetAttribute\rsetAttributeNS\rsetAttributeNode\rsetAttributeNodeNS",
+	"abort\raddEventListener\rafterprint\raltKey\rattachEvent\rbeforeprint\rbeforeunload\rblur\rbubbles\rbutton\rcancelable\rcancelBubble\rcanplay\rcanplaythrough\rcharCode\rclick\rclientX\rclientY\rcompositionend\rcompositionstart\rcompositionupdate\rcontextmenu\rctrlKey\rcuechange\rcurrentTarget\rdblclick\rdetail\rdetatchEvent\rdispatchEvent\rDOMActivate\rDOMAttributeNameChanged\rDOMAttrModified\rDOMCharacterDataModified\rDOMContentLoaded\rDOMElementNameChanged\rDOMFocusIn\rDOMFocusOut\rDOMFrameContentLoaded\rDOMLinkAdded\rDOMLinkRemoved\rDOMMenuItemActive\rDOMModalDialogClosed\rDOMMouseScroll\rDOMNodeInserted\rDOMNodeInsertedIntoDocument\rDOMNodeRemoved\rDOMNodeRemovedFromDocument\rDOMSubtreeModified\rDOMTitleChanged\rDOMWidowClose\rDOMWillOpenModalDialog\rdrag\rdragend\rdragenter\rdragleave\rdragover\rdragstart\rdrop\rdurationchange\remptied\rended\rerror\reventPhase\rexplicitOriginalTarget\rfocus\rfocusin\rfocusout\rfullscreen\rgetBoundingClientRect\rgetClientRects\rhashchange\rinitKeyEvent\rinitMouseEvent\rinitUIEvent\rinput\rinvalid\risChar\rkeyCode\rkeydown\rkeypress\rkeyup\rlayerX\rlayerY\rload\rloadeddata\rloadedmetadata\rloadstart\rmessage\rmetaKey\rmousedown\rmouseenter\rmouseleave\rmousemove\rmouseout\rmouseover\rmouseup\rmousewheel\rmozfullscreenchange\roffline\ronblur\ronchange\ronclick\roncontextmenu\roncopy\roncut\rondblclick\ronfocus\ronkeydown\ronkeypress\ronkeyup\ronline\ronload\ronmousedown\ronmousemove\ronmouseout\ronmouseover\ronmouseup\ronpaste\ronreadystatechange\ronresize\ronscroll\ronunload\roriginalTarget\rpagehide\rpageshow\rpageX\rpageY\rpause\rplay\rplaying\rPluginNotFound\rpopstate\rPopupWindow\rpreventBubble\rpreventCapture\rpreventDefault\rprogress\rratechange\rreadystatechange\rrelatedTarget\rremoveEventListener\rreset\rresize\rscreenX\rscreenY\rscroll\rseeked\rseeking\rselect\rshiftKey\rshow\rstalled\rstopPropagation\rstorage\rsubmit\rsuspend\rtarget\rtextinput\rtimeStamp\rtimeupdate\rtype\runload\rValueChange\rview\rvolumechange\rwaiting\rwhich\rwindowZLevel",
+	"collapsed\rcommonAncestorContainer\rendContainer\rendOffset\rstartContainer\rstartOffset\rsetStart\rsetEnd\rsetStartBefore\rsetStartAfter\rsetEndBefore\rsetEndAfter\rselectNode\rselectNodeContents\rcollapse\rcloneContents\rdeleteContents\rextractContents\rinsertNode\rsurroundContents\rcompareBoundaryPoints\rcloneRange\rdetach\rtoString\rcompareNode\rcomparePoint\rcreateContextualFragment\rintersectsNode\risPointInRange",
+	"anchorNode\ranchorOffset\rfocusNode\rfocusOffset\risCollapsed\rrangeCount\rgetRangeAt\rcollapse\rextend\rcollapseToStart\rcollapseToEnd\rselectAllChildren\raddRange\rremoveRange\rremoveAllRanges\rdeleteFromDocument\rselectionLanguageChange\rtoString\rcontainsNode",
+	"closed\rComponents\rcontent\rcontrollers\rcrypto\rdefaultStatus\rdialogArguments\rdirectories\rdocument\revent\rframeElement\rframes\rfullScreen\rglobalStorage\rhistory\rinnerHeight\rinnerWidth\rlength\rlocation\rlocationbar\rlocalStorage\rmenubar\rmessageManager\rmozAnimationStartTime\rmozInnerScreenX\rmozInnerScreenY\rmozPaintCount\rname\rnavigator\ropener\routerHeight\routerWidth\rpageXOffset\rpageYOffset\rparent\rperformance\rpersonalbar\rpkcs11\rreturnValue\rscreen\rscreen.availTop\rscreen.availLeft\rscreen.availHeight\rscreen.availWidth\rscreen.colorDepth\rscreen.height\rscreen.left\rscreen.pixelDepth\rscreen.top\rscreen.width\rscreenX\rscreenY\rscrollbars\rscrollMaxX\rscrollMaxY\rscrollX\rscrollY\rself\rsessionStorage\rsidebar\rstatus\rstatusbar\rtoolbar\rtop\rURL\rwindow\raddEventListener\ralert\ratob\rback\rblur\rbtoa\rcaptureEvents\rclearImmediate\rclearInterval\rclearTimeout\rclose\rconfirm\rdisableExternalCapture\rdispatchEvent\rdump\renableExternalCapture\rescape\rfind\rfocus\rforward\rGeckoActiveXObject\rgetAttention\rgetAttentionWithCycleCount\rgetComputedStyle\rgetSelection\rhome\rmatchMedia\rmaximize\rminimize\rmoveBy\rmoveTo\rmozRequestAnimationFrame\ropen\ropenDialog\rpostMessage\rprint\rprompt\rQueryInterface\rreleaseEvents\rremoveEventListener\rresizeBy\rresizeTo\rrestore\rrouteEvent\rscroll\rscrollBy\rscrollByLines\rscrollByPages\rscrollTo\rsetCursor\rsetImmediate\rsetInterval\rsetResizable\rsetTimeout\rshowModalDialog\rsizeToContent\rstop\runescape\rupdateCommands\rXPCNativeWrapper\rXPCSafeJSObjectWrapper\ronabort\ronbeforeunload\ronblur\ronchange\ronclick\ronclose\roncontextmenu\rondevicemotion\rondeviceorientation\rondragdrop\ronerror\ronfocus\ronhashchange\ronkeydown\ronkeypress\ronkeyup\ronload\ronmousedown\ronmousemove\ronmouseout\ronmouseover\ronmouseup\ronmozbeforepaint\ronpaint\ronpopstate\ronreset\ronresize\ronscroll\ronselect\ronsubmit\ronunload\ronpageshow\ronpagehide",
+	"window.closed\rwindow.Components\rwindow.content\rwindow.controllers\rwindow.crypto\rwindow.defaultStatus\rwindow.dialogArguments\rwindow.directories\rwindow.document\rwindow.event\rwindow.frameElement\rwindow.frames\rwindow.fullScreen\rwindow.globalStorage\rwindow.history\rwindow.innerHeight\rwindow.innerWidth\rwindow.length\rwindow.location\rwindow.locationbar\rwindow.localStorage\rwindow.menubar\rwindow.messageManager\rwindow.mozAnimationStartTime\rwindow.mozInnerScreenX\rwindow.mozInnerScreenY\rwindow.mozPaintCount\rwindow.name\rwindow.navigator\rwindow.opener\rwindow.outerHeight\rwindow.outerWidth\rwindow.pageXOffset\rwindow.pageYOffset\rwindow.parent\rwindow.performance\rwindow.personalbar\rwindow.pkcs11\rwindow.returnValue\rwindow.screen\rwindow.screen.availTop\rwindow.screen.availLeft\rwindow.screen.availHeight\rwindow.screen.availWidth\rwindow.screen.colorDepth\rwindow.screen.height\rwindow.screen.left\rwindow.screen.pixelDepth\rwindow.screen.top\rwindow.screen.width\rwindow.screenX\rwindow.screenY\rwindow.scrollbars\rwindow.scrollMaxX\rwindow.scrollMaxY\rwindow.scrollX\rwindow.scrollY\rwindow.self\rwindow.sessionStorage\rwindow.sidebar\rwindow.status\rwindow.statusbar\rwindow.toolbar\rwindow.top\rwindow.URL\rwindow.window\rwindow.addEventListener\rwindow.alert\rwindow.atob\rwindow.back\rwindow.blur\rwindow.btoa\rwindow.captureEvents\rwindow.clearImmediate\rwindow.clearInterval\rwindow.clearTimeout\rwindow.close\rwindow.confirm\rwindow.disableExternalCapture\rwindow.dispatchEvent\rwindow.dump\rwindow.enableExternalCapture\rwindow.escape\rwindow.find\rwindow.focus\rwindow.forward\rwindow.GeckoActiveXObject\rwindow.getAttention\rwindow.getAttentionWithCycleCount\rwindow.getComputedStyle\rwindow.getSelection\rwindow.home\rwindow.matchMedia\rwindow.maximize\rwindow.minimize\rwindow.moveBy\rwindow.moveTo\rwindow.mozRequestAnimationFrame\rwindow.open\rwindow.openDialog\rwindow.postMessage\rwindow.print\rwindow.prompt\rwindow.QueryInterface\rwindow.releaseEvents\rwindow.removeEventListener\rwindow.resizeBy\rwindow.resizeTo\rwindow.restore\rwindow.routeEvent\rwindow.scroll\rwindow.scrollBy\rwindow.scrollByLines\rwindow.scrollByPages\rwindow.scrollTo\rwindow.setCursor\rwindow.setImmediate\rwindow.setInterval\rwindow.setResizable\rwindow.setTimeout\rwindow.showModalDialog\rwindow.sizeToContent\rwindow.stop\rwindow.unescape\rwindow.updateCommands\rwindow.XPCNativeWrapper\rwindow.XPCSafeJSObjectWrapper\rwindow.onabort\rwindow.onbeforeunload\rwindow.onblur\rwindow.onchange\rwindow.onclick\rwindow.onclose\rwindow.oncontextmenu\rwindow.ondevicemotion\rwindow.ondeviceorientation\rwindow.ondragdrop\rwindow.onerror\rwindow.onfocus\rwindow.onhashchange\rwindow.onkeydown\rwindow.onkeypress\rwindow.onkeyup\rwindow.onload\rwindow.onmousedown\rwindow.onmousemove\rwindow.onmouseout\rwindow.onmouseover\rwindow.onmouseup\rwindow.onmozbeforepaint\rwindow.onpaint\rwindow.onpopstate\rwindow.onreset\rwindow.onresize\rwindow.onscroll\rwindow.onselect\rwindow.onsubmit\rwindow.onunload\rwindow.onpageshow\rwindow.onpagehide",
+	"Attr\rCDATASection\rCharacterData\rComment\rDocumentFragment\rDocumentType\rDomConfiguration\rDOMError\rDOMErrorHandler\rDOMException\rDOMImplementation\rDOMImplementationList\rDOMImplementationRegistry\rDOMImplementationSource\rDOMLocator\rDOMObject\rDOMString\rDOMStringList\rDOMTimeStamp\rDOMUserData\rEntity\rEntityReference\rNameList\rNamedNodeMap\rNode\rNodeFilter\rNodeIterator\rNodeList\rNotation\rPlugin\rPluginArray\rProcessingInstruction\rSharedWorker\rText\rTimeRanges\rTreewalker\rTypeInfo\rUserDataHandler\rWorker\rWorkerGlobalScope",
+	"escape\runescape\rencode\rdecode\rencodeURI\rdecodeURI\rencodeURIComponent\rdecodeURIComponent\reval\risFinite\risNaN\risFunction\risEmptyObject\risPlainObject\risArray\risXMLDoc\risWindow\risNumeric\risNumber\rparseFloat\rparseInt\runeval\rJSON\rstringify\rparse\rtoJSON\rinit\rinitialize\rarguments.callee"
+}
+"DragDrop_Suffix" = 
+{
+
+}
+"DragDrop_Text" = 
+{
+
+}
+"Correspond_StartText" = 
+{
+	"(",
+	"[",
+	"{",
+	"for",
+	"function",
+	"if",
+	"do"
+}
+"Correspond_EndText" = 
+{
+	")",
+	"]",
+	"}",
+	"(var i=0;i<length;i++){}",
+	"(){}",
+	"(){}else{}",
+	"{}while()"
+}
+"Indent_RegExp" = 
+{
+	"(\\s*)function\\s+([a-zA-Z0-9\\$_]+)\\(([a-zA-Z0-9\\$_\\s,]*)\\)\\s*{\\s*$",
+	"(\\s*)var\\s+([a-zA-Z0-9\\$_]+)\\s*=\\s*\\(?\\s*function\\s*\\(([a-zA-Z0-9\\$_\\s,]*)\\)\\s*{\\s*$",
+	"[a-zA-Z0-9\\$_]+\\.([a-zA-Z0-9\\$_]+)\\s*\\=\\s*function\\s*\\(([a-zA-Z0-9\\$_\\s,]*)\\)\\s*{\\s*$",
+	"(\\s*)([a-zA-Z0-9\\$_]+)\\s*:\\s*function\\s*\\(([a-zA-Z0-9\\$_\\s,]*)\\)\\s*{\\s*$",
+	"(\\s*)var\\s*([a-zA-Z0-9\\$_\\.]+)\\s*\\=\\s*{\\s*$",
+	"^\\s*([a-zA-Z0-9\\.\\$]+)\\s*\\=\\s*{\\s*$",
+	"for\\s*\\(.*\\)\\s*{\\s*$",
+	"if\\s*\\(.*\\)\\s*{\\s*$",
+	"while\\s*\\(.*\\)\\s*{\\s*$",
+	"^\\s*do\\s*{\\s*$"
+}
+"Indent_OffsetCurrentLine" = 
+{
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0"
+}
+"Indent_OffsetNextLine" = 
+{
+	"4",
+	"4",
+	"4",
+	"4",
+	"4",
+	"4",
+	"4",
+	"4",
+	"4",
+	"4"
+}
+"JumpSetup_Name" = 
+{
+	"function statement",
+	"function expression",
+	"method (name.prototype = function())",
+	"method (name: function())",
+	"object (declaration)",
+	"object (assignment)",
+	"variable (single)",
+	"variable (multi)"
+}
+"JumpSetup_RegExp" = 
+{
+	"(\\s*)function\\s+([a-zA-Z0-9\\$_]+)\\(([a-zA-Z0-9\\$_\\s,]*)\\)",
+	"(\\s*)var\\s+([a-zA-Z0-9\\$_]+)\\s*=\\s*\\(?\\s*function\\s*\\(([a-zA-Z0-9\\$_\\s,]*)\\)",
+	"[a-zA-Z0-9\\$_]+\\.([a-zA-Z0-9\\$_]+)\\s*\\=\\s*function\\s*\\(([a-zA-Z0-9\\$_\\s,]*)\\)",
+	"(\\s*)([a-zA-Z0-9\\$_]+)\\s*:\\s*function\\s*\\(([a-zA-Z0-9\\$_\\s,]*)\\)",
+	"(\\s*)var\\s*([a-zA-Z0-9\\$_\\.]+)\\s*\\=\\s*{",
+	"^\\s*([a-zA-Z0-9\\.\\$]+)\\s*\\=\\s*{\\s*$",
+	"var\\s+([a-zA-Z0-9\\$_]+)\\s*=\\s*",
+	"var\\s+([a-zA-Z0-9\\$_]+)\\s*,\\s*"
+}
+"JumpSetup_MenuText" = 
+{
+	"$1$2($3)",
+	"$1$2($3)",
+	"   $1($2)",
+	"$1$2($3)",
+	"$1$2",
+	"$1",
+	"$1",
+	"$0"
+}
+"JumpSetup_SelectionGroup" = 
+{
+	"2",
+	"2",
+	"1",
+	"2",
+	"2",
+	"1",
+	"0",
+	"0"
+}
+"JumpSetup_KeywordGroup" = 
+{
+	"2",
+	"2",
+	"1",
+	"2",
+	"2",
+	"1",
+	"1",
+	"1"
+}
+"JumpSetup_AnchorGroup" = 
+{
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0"
+}
+"JumpSetup_ColorizeLine" = 
+{
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false"
+}
+"JumpSetup_LineColor" = 
+{
+	"000000",
+	"007500",
+	"000000",
+	"000000",
+	"007500",
+	"007500",
+	"007500",
+	"007500"
+}
+"JumpSetup_KeywordColor" = 
+{
+	"FFFFFF",
+	"FFF8F1",
+	"FFFFFF",
+	"FFFFFF",
+	"FFFCFC",
+	"FFF8FC",
+	"FFFFF8",
+	"FFFEFB"
+}
+"JumpSetup_RegisterToMenu" = 
+{
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"false",
+	"false"
+}
+"JumpSetup_RegisterAsKeyword" = 
+{
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true"
+}
+"JumpSetup_DisplayMultiply" = 
+{
+	"100",
+	"100",
+	"100",
+	"100",
+	"100",
+	"100",
+	"100",
+	"100"
+}
+"JumpSetup_AutoUpdate" = 
+{
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false"
+}
+"JumpSetup_ColorizeRegExpGroup" = 
+{
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false"
+}
+"JumpSetup_ColorizeRegExpGroup_Number" = 
+{
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0"
+}
+"JumpSetup_ColorizeRegExpGroup_Color" = 
+{
+	"007500",
+	"007500",
+	"007500",
+	"007500",
+	"007500",
+	"007500",
+	"007500",
+	"007500"
+}
+"Suffix" = 
+{
+	".js",
+	".jsm"
+}
+"KeyBind_Key" = 
+{
+	"43",
+	"42",
+	"48",
+	"49",
+	"48",
+	"49",
+	"48",
+	"49",
+	"50",
+	"51",
+	"48",
+	"49",
+	"50",
+	"51",
+	"48",
+	"49",
+	"48",
+	"49",
+	"50",
+	"51",
+	"48",
+	"49",
+	"50",
+	"51",
+	"50",
+	"51",
+	"48",
+	"49",
+	"48",
+	"49",
+	"50",
+	"51",
+	"48",
+	"49",
+	"50",
+	"51",
+	"48",
+	"49",
+	"50",
+	"51",
+	"48",
+	"49",
+	"50",
+	"51",
+	"43"
+}
+"KeyBind_ControlKey" = 
+{
+	"false",
+	"true",
+	"false",
+	"false",
+	"false",
+	"false",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"false",
+	"false",
+	"false",
+	"false",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"false",
+	"false",
+	"false",
+	"false",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true"
+}
+"KeyBind_OptionKey" = 
+{
+	"false",
+	"false",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"false",
+	"false",
+	"false",
+	"false",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"false"
+}
+"KeyBind_CommandKey" = 
+{
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"true",
+	"true",
+	"true",
+	"true",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"false",
+	"false",
+	"false",
+	"false",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"false"
+}
+"KeyBind_ShiftKey" = 
+{
+	"true",
+	"false",
+	"false",
+	"false",
+	"true",
+	"true",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"true",
+	"true",
+	"true",
+	"true",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"false",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"true",
+	"false"
+}
+"KeyBind_Action" = 
+{
+	"6",
+	"1",
+	"1",
+	"1",
+	"1",
+	"1",
+	"1",
+	"24",
+	"25",
+	"1",
+	"26",
+	"27",
+	"1",
+	"1",
+	"1",
+	"1",
+	"1",
+	"1",
+	"1",
+	"1",
+	"1",
+	"1",
+	"1",
+	"1",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"0",
+	"1",
+	"7"
+}
+"KeyBind_Text" = 
+{
+	"",
+	"<<<RECENTER>>>",
+	"<<<MOVECARET-UP MOVECARET-UP MOVECARET-UP MOVECARET-UP MOVECARET-UP MOVECARET-UP MOVECARET-UP MOVECARET-UP RECENTER>>>",
+	"<<<MOVECARET-DOWN MOVECARET-DOWN MOVECARET-DOWN MOVECARET-DOWN MOVECARET-DOWN MOVECARET-DOWN MOVECARET-DOWN MOVECARET-DOWN RECENTER>>>",
+	"<<<SELECT-UP SELECT-UP SELECT-UP SELECT-UP SELECT-UP SELECT-UP SELECT-UP SELECT-UP>>>",
+	"<<<SELECT-DOWN SELECT-DOWN SELECT-DOWN SELECT-DOWN SELECT-DOWN SELECT-DOWN SELECT-DOWN SELECT-DOWN>>>",
+	"<<<SCROLL-UP SCROLL-UP SCROLL-UP SCROLL-UP SCROLL-UP SCROLL-UP SCROLL-UP SCROLL-UP SCROLL-UP SCROLL-UP>>>",
+	"",
+	"",
+	"<<<SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT>>>",
+	"",
+	"",
+	"<<<SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT SCROLL-LEFT>>>",
+	"<<<SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT SCROLL-RIGHT>>>",
+	"<<<SCROLL-UP SCROLL-UP SCROLL-UP SCROLL-UP SCROLL-UP SCROLL-UP>>>",
+	"<<<SCROLL-DOWN SCROLL-DOWN SCROLL-DOWN SCROLL-DOWN SCROLL-DOWN SCROLL-DOWN>>>",
+	"<<<SELECT-UP SELECT-UP SELECT-UP SELECT-UP SELECT-UP SELECT-UP SELECT-UP SELECT-UP>>>",
+	"<<<SELECT-DOWN SELECT-DOWN SELECT-DOWN SELECT-DOWN SELECT-DOWN SELECT-DOWN SELECT-DOWN SELECT-DOWN>>>",
+	"<<<SELECT-LEFT SELECT-LEFT SELECT-LEFT SELECT-LEFT SELECT-LEFT SELECT-LEFT SELECT-LEFT SELECT-LEFT SELECT-LEFT SELECT-LEFT>>>",
+	"<<<SELECT-RIGHT SELECT-RIGHT SELECT-RIGHT SELECT-RIGHT SELECT-RIGHT SELECT-RIGHT SELECT-RIGHT SELECT-RIGHT SELECT-RIGHT SELECT-RIGHT>>>",
+	"<<<MOVECARET-LEFT MOVECARET-RIGHT MOVECARET-UP MOVECARET-PREVWORD MOVECARET-NEXTWORD SELECT-PREVWORD>>>",
+	"<<<MOVECARET-RIGHT MOVECARET-LEFT MOVECARET-DOWN MOVECARET-NEXTWORD MOVECARET-PREVWORD SELECT-NEXTWORD >>>",
+	"<<<MOVECARET-LEFT MOVECARET-PREVWORD MOVECARET-NEXTWORD SELECT-PREVWORD>>>",
+	"<<<MOVECARET-RIGHT MOVECARET-NEXTWORD MOVECARET-PREVWORD SELECT-NEXTWORD >>>",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"",
+	"\r",
+	""
+}
+"SyntaxDefinitionCategory_Name" = 
+{
+
+}
+"SyntaxDefinitionCategory_Color" = 
+{
+
+}
+"SyntaxDefinitionCategory_ImportColor" = 
+{
+
+}
+"SyntaxDefinitionCategory_LocalColor" = 
+{
+
+}
+"SyntaxDefinitionCategory_Bold" = 
+{
+
+}
+"SyntaxDefinitionCategory_Italic" = 
+{
+
+}
+"SyntaxDefinitionCategory_Underline" = 
+{
+
+}
+"SyntaxDefinitionState_Name" = 
+{
+
+}
+"SyntaxDefinitionState_Color" = 
+{
+
+}
